@@ -27,6 +27,14 @@ const projects: Project[] = [
         link: "https://riff.drewedev.com/"
     },
     {
+        title: "TuneGrab",
+        description: "A Phantom Thieves inspired YouTube to MP3 converter. Features high-quality audio extraction, playlist support, and auto-expiring downloads in a slick, containerized package.",
+        tags: ["Node.js", "Docker", "yt-dlp", "Express"],
+        github: "https://github.com/Drewe4401/TuneGrab",
+        gradient: 'from-red-600 to-rose-600',
+        icon: 'music',
+    },
+    {
         title: "Nexus Music",
         description: "Self-hosted music streaming platform for managing and streaming personal media collections.",
         tags: ["Go", "React", "Docker", "Streaming"],
