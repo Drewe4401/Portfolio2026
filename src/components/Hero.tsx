@@ -57,7 +57,7 @@ const Hero = () => {
     return (
         <section
             ref={containerRef}
-            className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20"
+            className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20 pb-28"
             onMouseMove={handleMouseMove}
             onMouseLeave={handleMouseLeave}
         >
