@@ -72,13 +72,6 @@ const Contact = () => {
             color: 'blue',
         },
         {
-            icon: Phone,
-            label: 'Phone',
-            value: '(337) 965-0987',
-            href: 'tel:+13379650987',
-            color: 'purple',
-        },
-        {
             icon: MapPin,
             label: 'Location',
             value: 'Lake Charles, LA',
